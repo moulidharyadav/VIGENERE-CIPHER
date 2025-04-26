@@ -101,7 +101,6 @@ void decipher() {
 }\
 ```
 ## OUTPUT
-
 ![Screenshot (104)](https://github.com/user-attachments/assets/5dc8f81e-99a0-438d-8bbd-8ec6c0b88bab)
 
 ## RESULT
